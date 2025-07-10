@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme{
+  --font-impact:"Impact","sans-serif";
+  --color-dark-pink:#C33340;
+  --color-light-pink: #F9EBEC;
+}
